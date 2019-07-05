@@ -1,8 +1,8 @@
 /*
- * Moorhuhn.h - Bibliothek zur Festlegung von Moorhühnern
- * Fähigkeiten: Leben durch LED anzeigen, Leben/Tod abfragen (LDR), Fliegen (Bewegung) und Sterben (Ton)
- * V0.2, 12.04.2017
- */
+   Moorhuhn.h - Bibliothek zur Festlegung von Moorhühnern
+   Fähigkeiten: Leben durch LED anzeigen, Leben/Tod abfragen (LDR), Fliegen (Bewegung) und Sterben (Ton)
+   V0.2, 12.04.2017
+*/
 
 #ifndef Moorhuhn_h
 #define Moorhuhn_h
